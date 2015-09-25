@@ -18,3 +18,4 @@ _darcs
 \#.*\#       # emacs autosave files
 
 manage.sh
+install.sh

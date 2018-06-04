@@ -5,7 +5,6 @@ display_setup=$HOME/bin/display_setup
 i3=$(which i3)
 xset=$(which xset)
 
-
 if [ -f "$resources" ]; then
 	xrdb -all -merge "$resources"
 fi

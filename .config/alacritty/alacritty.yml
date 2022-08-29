@@ -17,7 +17,10 @@ font:
 
   size: 9
 
-  schemes:
+selection:
+  save_to_clipboard: true
+
+schemes:
   # Tokyo Night theme, based on both:
   #   https://github.com/ghifarit53/tokyonight-vim
   #   https://github.com/enkia/tokyo-night-vscode-theme
